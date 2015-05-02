@@ -1,0 +1,8 @@
+{
+  "name": "gulp-basics-tutorial-example-1",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "2.5.2"
+  }
+}
